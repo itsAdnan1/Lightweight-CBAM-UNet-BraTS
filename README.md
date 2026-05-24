@@ -46,7 +46,7 @@ Curated subset of the BraTS 2021 dataset.
 ---
 
 ## 🚀 Future Work
-3D segmentation
-Transformer-based attention
-Model optimization for edge devices
-Clinical deployment pipeline
+- 3D segmentation
+- Transformer-based attention
+- Model optimization for edge devices
+- Clinical deployment pipeline
