@@ -30,5 +30,3 @@ Lightweight architecture definition with integrated CBAM blocks.
 5-fold cross-validation training process.
 
 Comprehensive quantitative and qualitative evaluation.
-
-Note: This implementation demonstrates that high segmentation accuracy is attainable within a <0.5M parameter constraint, offering a robust performance baseline for lightweight 2D brain tumor segmentation.
