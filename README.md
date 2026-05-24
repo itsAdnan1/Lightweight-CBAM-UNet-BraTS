@@ -1,5 +1,3 @@
-هذا النص المحدث لملف الـ README.md الخاص بمشروعك على GitHub، بعد تعديله ليكون متوافقاً مع الأرقام الدقيقة (487,234)، ولتخفيف لغة المبالغة (Softening SOTA language) لتكون رصينة وأكاديمية:
-
 Brain Tumor MRI Segmentation Using Lightweight CBAM U-Net
 This repository contains the PyTorch implementation of the Lightweight CBAM U-Net for multi-class brain tumor segmentation, utilizing a curated subset of the BraTS 2021 dataset.
 
