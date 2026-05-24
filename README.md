@@ -32,9 +32,21 @@ PyTorch implementation of a lightweight attention-based U-Net for multi-class br
 
 ---
 
-## 📂 Implementation
+## Implemented using:
 
-The project is provided as a Jupyter Notebook:
+- PyTorch
+- OpenCV
 
-```bash
-CBAM_UNet_BraTS.ipynb
+---
+
+## 📖 Dataset
+
+Curated subset of the BraTS 2021 dataset.
+
+---
+
+## 🚀 Future Work
+3D segmentation
+Transformer-based attention
+Model optimization for edge devices
+Clinical deployment pipeline
